@@ -27,6 +27,8 @@ public class Program {
 		
 		System.out.println("Area of X: " + areaX);
 		System.out.println("Area of Y: " + areaY);
+		
+		sc.close();
 	}
 
 }
