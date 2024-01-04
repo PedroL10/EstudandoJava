@@ -1,0 +1,5 @@
+TV LED,1290.99
+Video Game Chair,1051.50
+iPhone X,1800.00
+Samsung Galaxy s20,3000.00
+PlayStation 5,3500.99
