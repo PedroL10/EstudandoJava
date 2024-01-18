@@ -18,7 +18,5 @@ public class Program {
 		for(String p : set) {
 			System.out.println(p);
 		}
-
 	}
-
 }
