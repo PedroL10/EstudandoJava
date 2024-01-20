@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a206dda-78b9-47fa-941b-8d05a1ea326b" name="Changes" comment="" />
+    <list default="true" id="4a206dda-78b9-47fa-941b-8d05a1ea326b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex01/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex01/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex02/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex02/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex03/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex03/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex04/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex04/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex05/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex05/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex06/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex06/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex07/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex07/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex08/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex08/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex09/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex09/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex10/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex10/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex11/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex11/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex12/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex12/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex13/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex13/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex14/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex14/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex15/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex15/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex16/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex16/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex17/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex17/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex18/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex18/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex19/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex19/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex20/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex20/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex21/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex21/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex22/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex22/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex23/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex23/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex24/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex24/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex25/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex25/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex26/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex26/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex27/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex27/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex28/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex28/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex29/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex29/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex30/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex30/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex31/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex31/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex32/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex32/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex33/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex33/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex34/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex34/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex35/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex35/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Ex36/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Ex36/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoNelio/Teste/.project" beforeDir="false" afterPath="$PROJECT_DIR$/CursoNelio/Teste/.project" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +55,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2b2MG2mtzxK4o5kTUEIk0Xpnsbb" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -20,13 +65,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/pedro.goncalves/Desktop/J"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pedro/Desktop/Java/EstudandoJava&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Teste" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
